@@ -1,0 +1,13 @@
+﻿  ProyectoGLUT.cpp
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(201,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(243,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(250,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(261,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(387,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(395,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(412,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(429,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(470,7): warning C4101: 'n': variable local sin referencia
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(519,6): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\ProyectoGLUT\ProyectoGLUT.cpp(518,6): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoGLUT.vcxproj -> C:\Users\José Eduardo\Desktop\IA-2020-I\Minimax Poda Alpha Beta\ProyectoGLUT\Debug\ProyectoGLUT.exe
